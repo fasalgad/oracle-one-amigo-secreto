@@ -1,6 +1,6 @@
 # 🎁 Amigo Secreto
 
-![Portada del proyecto](https://raw.githubusercontent.com/fasalgad/oracle-one-amigo-secreto/main/assets/cover.png)
+![Portada del proyecto](https://raw.githubusercontent.com/fasalgad/oracle-one-amigo-secreto/refs/heads/main/assets/portada.png)
 
 [![Status](https://img.shields.io/badge/Status-En%20Desarrollo-yellow)](/)
 [![GitHub Stars](https://img.shields.io/github/stars/fasalgad/oracle-one-amigo-secreto)](/)
