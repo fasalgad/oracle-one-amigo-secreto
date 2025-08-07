@@ -33,7 +33,7 @@ El proyecto se encuentra en desarrollo activo, con las siguientes característic
 
 ## 🎮 Demostración
 
-![GIF de demostración](https://raw.githubusercontent.com/fasalgad/oracle-one-amigo-secreto/main/assets/demo.gif)
+![GIF de demostración](https://raw.githubusercontent.com/fasalgad/oracle-one-amigo-secreto/refs/heads/main/assets/screen-capture.png)
 
 ## 📂 Acceso al Proyecto
 
